@@ -1,2 +1,1 @@
-# Iris-
-This is an internship task given by Alfido Tech 
+# These are the internship tasks given by Alfido Tech.
